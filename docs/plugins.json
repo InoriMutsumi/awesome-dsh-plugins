@@ -369116,6 +369116,7 @@
       "verifiedAgainst": "0.2.1-rc.2",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
+      "npm": "dsh-grill-first",
       "stars": 3,
       "starsUpdated": "2026-10-24",
       "tags": [
